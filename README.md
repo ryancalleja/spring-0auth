@@ -1,5 +1,5 @@
-# spring-0auth
-A small example demonstrating the use of 0Auth server in a Spring application, having separate servers per functional groups.
+# spring-0auth2
+A small example demonstrating the use of 0Auth2 server in a Spring application, having separate servers per functional groups.
 
 ## Improvements ##
 
