@@ -1,4 +1,4 @@
-package com.ryacal.demos.config;
+package com.rcalleja.examples.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -5,6 +5,6 @@ traditional properties files.
 
 ## Improvements ##
 
-* Identify from where the login is coming from Facebook or Github, show data abse don social login.
+* Identify from where the login is coming from Facebook or Github, show data based on social login.
 * Remove webjars, and add client module on its own.
 * Remove starter packs for spring-boot and include only dependencies required.
