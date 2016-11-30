@@ -1,7 +1,9 @@
 # spring-0auth2
 A small example demonstrating the use of 0Auth2 server in a Spring application, having separate 
 servers per functional groups. Also experimenting using YAML properties instead of the
-traditional properties files. 
+traditional properties files.
+
+# Applications are still WIP
 
 ## Improvements ##
 
